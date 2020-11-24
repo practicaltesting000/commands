@@ -1,0 +1,1 @@
+Bash (bash) is one of many available (yet the most commonly used) Unix shells. ... Shell scripting is scripting in any shell, whereas Bash scripting is scripting specifically for Bash. In practice, however, shell scrip

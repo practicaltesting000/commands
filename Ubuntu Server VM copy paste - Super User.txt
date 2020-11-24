@@ -1,0 +1,1 @@
+You need to use CTL+Shift+V to paste, copy as normal in the Host, and back in the VM add Shift as well if you wish to copy, so CTL+SHIFT+C ( then Cut with same + X ). Cheers!
